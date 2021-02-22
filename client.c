@@ -80,7 +80,7 @@ void receiveMesage() //receive message from server
         } 
         else 
         {
-			break;
+		break;
 		}
         bzero(RECEIVE,SIZE);
     }
